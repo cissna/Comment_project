@@ -1,0 +1,1 @@
+This program uses a spreadsheet called "comments.csv" to turn statistics of student--as given by OES teachers--into folders containing each students file, and a graph of their improvement. Please help me.
